@@ -28,7 +28,7 @@ public:
                     q.push(i);
                 }               
             }
-            prev = idx+maxJump+1;
+            prev = idx+maxJump;
         }
         return false;
     }
