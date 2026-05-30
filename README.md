@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Sheetal-arma/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Sheetal-arma/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sheetal-arma/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Trie
 |  |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sheetal-arma/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Binary Search
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Sheetal-arma/Leetcode/tree/master/3161-block-placement-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Sheetal-arma/Leetcode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Sheetal-arma/Leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
